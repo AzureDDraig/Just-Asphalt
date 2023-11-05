@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "just_asphalt:block/asphaltlime",
+    "particle": "just_asphalt:block/asphaltlime"
+  },
+  "render_type": "solid"
+}

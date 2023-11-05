@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "just_asphalt:block/asphaltorange",
+    "top": "just_asphalt:block/asphaltorange",
+    "side": "just_asphalt:block/asphaltorange"
+  },
+  "render_type": "solid"
+}

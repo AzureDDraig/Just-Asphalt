@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "just_asphalt:block/asphaltpurple",
+    "top": "just_asphalt:block/asphaltpurple",
+    "side": "just_asphalt:block/asphaltpurple"
+  },
+  "render_type": "solid"
+}

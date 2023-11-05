@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "just_asphalt:white_asphalt"
+    },
+    "3": {
+      "item": "just_asphalt:white_asphalt"
+    },
+    "4": {
+      "item": "just_asphalt:white_asphalt"
+    },
+    "6": {
+      "item": "just_asphalt:white_asphalt"
+    },
+    "7": {
+      "item": "just_asphalt:white_asphalt"
+    },
+    "8": {
+      "item": "just_asphalt:white_asphalt"
+    }
+  },
+  "result": {
+    "item": "just_asphalt:white_asphalt_stairs",
+    "count": 6
+  }
+}

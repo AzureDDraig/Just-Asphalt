@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "just_asphalt:block/asphaltgray",
+    "top": "just_asphalt:block/asphaltgray",
+    "side": "just_asphalt:block/asphaltgray"
+  },
+  "render_type": "solid"
+}

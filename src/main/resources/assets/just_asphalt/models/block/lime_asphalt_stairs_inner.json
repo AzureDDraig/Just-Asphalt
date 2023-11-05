@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "just_asphalt:block/asphaltlime",
+    "top": "just_asphalt:block/asphaltlime",
+    "side": "just_asphalt:block/asphaltlime"
+  },
+  "render_type": "solid"
+}

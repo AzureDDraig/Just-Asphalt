@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    }
+  ],
+  "result": {
+    "item": "just_asphalt:black_asphalt",
+    "count": 4
+  }
+}

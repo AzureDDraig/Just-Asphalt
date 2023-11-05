@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "minecraft:light_gray_dye"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    },
+    {
+      "item": "just_asphalt:asphalt"
+    }
+  ],
+  "result": {
+    "item": "just_asphalt:light_gray_asphalt",
+    "count": 8
+  }
+}

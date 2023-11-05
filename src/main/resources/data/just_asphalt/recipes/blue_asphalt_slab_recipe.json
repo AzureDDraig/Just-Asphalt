@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "just_asphalt:blue_asphalt"
+    },
+    "1": {
+      "item": "just_asphalt:blue_asphalt"
+    },
+    "2": {
+      "item": "just_asphalt:blue_asphalt"
+    }
+  },
+  "result": {
+    "item": "just_asphalt:blue_asphalt_slab",
+    "count": 6
+  }
+}

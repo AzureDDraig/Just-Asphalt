@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "just_asphalt:block/asphaltgreen",
+    "top": "just_asphalt:block/asphaltgreen",
+    "side": "just_asphalt:block/asphaltgreen"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Lesser General Public License version 2.1 (LGPLv2.1)"
+
+[[mods]]
+modId="just_asphalt"
+version="1.0.0"
+displayName="Just Asphalt"
+credits="Created by Azureddraig AKA kryztaly"
+displayURL="https://discord.gg/XAp9p9PNxN"
+authors="Azureddraig/Kryztaly on CF"
+
+[[dependencies.just_asphalt]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

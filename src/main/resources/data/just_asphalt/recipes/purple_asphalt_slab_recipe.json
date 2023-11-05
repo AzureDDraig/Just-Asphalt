@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "just_asphalt:purple_asphalt"
+    },
+    "1": {
+      "item": "just_asphalt:purple_asphalt"
+    },
+    "2": {
+      "item": "just_asphalt:purple_asphalt"
+    }
+  },
+  "result": {
+    "item": "just_asphalt:purple_asphalt_slab",
+    "count": 6
+  }
+}
